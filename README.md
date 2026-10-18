@@ -1,7 +1,3 @@
-Here is a comprehensive, polished `README.md` for your portfolio repository. It highlights the custom terminal logic, security-themed interactive elements, and modern UI design you have implemented.
-
----
-
 # Ycdro OS – Interactive Personal Portfolio
 
 A sleek, interactive personal portfolio website built with a focus on immersive user experience, zero-delay execution, and a minimalist aesthetic. The site features a custom "nuclear blackout" terminal intro, dynamic visitor telemetry, and seamless navigation.
