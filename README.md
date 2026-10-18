@@ -2,15 +2,6 @@
 
 A sleek, interactive personal portfolio website built with a focus on immersive user experience, zero-delay execution, and a minimalist aesthetic. The site features a custom "nuclear blackout" terminal intro, dynamic visitor telemetry, and seamless navigation.
 
-## 🚀 Features
-
-* **Zero-Delay Terminal Intro:** An unskippable, flash-free terminal boot sequence that silences the DOM upon load (`force-term`). It dynamically fetches and displays the visitor's live public IP address in the final sequence before dissolving into the homepage.
-* **"Ask Anything" Telemetry Module:** A specialized interactive modal triggered via sidebar or keyboard shortcut (`Alt + K`). It analyzes and types out the user's browser, network, and geolocation telemetry (ISP, timezone, coordinates, memory) to demonstrate data visibility.
-* **Minimalist Architecture:** Clean, glass-morphic certification cards and a streamlined sidebar navigation system anchored directly to homepage sections (`/#certs`).
-* **Auditory Feedback System:** Engineered UI sound design utilizing the Web Audio API to generate synthetic keystrokes, hover states, and click acknowledgments dynamically. Includes a global mute toggle.
-* **Advanced Keyboard Handling:** Custom event listeners for shortcut integrations and global blocking of specific browser shortcuts (e.g., `Alt + J`).
-* **Responsive Theming:** Integrated Light, Dark, and System theme toggles synced with user preferences.
-
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES6+)
